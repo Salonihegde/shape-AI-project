@@ -1,0 +1,6 @@
+location = VASCO
+Current Temperature = 21.670000000000016 deg C
+Current Weather = broken clouds
+Current Humidity = 32%
+Current Wind Speed = 1.81 kmph
+22 Jun 2021 | 10:56:01 PM
