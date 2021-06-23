@@ -5,7 +5,7 @@ from datetime import datetime
 
 def main():
     outfile = open('data.txt','w')
-    api_key = '93f2c3a75de2e09800ecf7bf1f549bbf'
+    api_key = 'a79e9615a12d86939cc81fe812095f34'
     location = input("Enter the city name: ")
 
     complete_api_link = "https://api.openweathermap.org/data/2.5/weather?q=" + location + "&appid=" + api_key
